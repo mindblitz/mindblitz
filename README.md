@@ -1,0 +1,3 @@
+- Hey, I'm Luke or @mindblitz and I'm extremely new to coding.
+- Trying to learn C#, and Java mainly. 
+- Looking to learn to code 3D engines, shaders, and software tools.
